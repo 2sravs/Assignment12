@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppRegexAssign-12\ConAppRegexAssign-12\bin\Debug\ConAppRegexAssign-12.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppRegexAssign-12\ConAppRegexAssign-12\bin\Debug\ConAppRegexAssign-12.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppRegexAssign-12\ConAppRegexAssign-12\bin\Debug\ConAppRegexAssign-12.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppRegexAssign-12\ConAppRegexAssign-12\obj\Debug\ConAppRegexAssign-12.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppRegexAssign-12\ConAppRegexAssign-12\obj\Debug\ConAppRegexAssign-12.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppRegexAssign-12\ConAppRegexAssign-12\obj\Debug\ConAppRegexAssign-12.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppRegexAssign-12\ConAppRegexAssign-12\obj\Debug\ConAppRegexAssign-12.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-10\ConAppRegexAssign-12\ConAppRegexAssign-12\obj\Debug\ConAppRegexAssign-12.pdb
